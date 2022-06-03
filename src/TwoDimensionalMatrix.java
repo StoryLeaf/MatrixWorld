@@ -13,13 +13,20 @@ public class TwoDimensionalMatrix {
 
         //Function to output the main matrix.
         void OutputMatrix(){
-
+            int loopCounter = 0;
+            System.out.println("\nStart.");
             for(int rowIndex=0;rowIndex<rowAmount;rowIndex++){
                 for(int colIndex=0;colIndex<colAmount;colIndex++){
-                    System.out.println(worldMatrix[rowIndex][colIndex]);
-
+                    System.out.print(worldMatrix[rowIndex][colIndex]);
+                    loopCounter++;
+                    if (loopCounter == rowAmount){
+                        System.out.println();
+                        loopCounter = 0;
+                    }
                 }
             }
+            System.out.println("End.");
+
         }
 }
 
