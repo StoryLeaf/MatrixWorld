@@ -1,12 +1,12 @@
 public class TwoDimensionalMatrix {
-    int[][]worldMatrix = new int[0][0];
+    int[][]worldMatrix;
     //This is the matrix size vars.
     int rows, cols;
 
     //This is to create a way to change variables for the matrix size.
     public TwoDimensionalMatrix(int i, int j) {
         rows=i; cols=j;
-        worldMatrix = new int[rows][cols];
+        worldMatrix = new int[i][j];
     }
 
         //Function to output the main matrix.
