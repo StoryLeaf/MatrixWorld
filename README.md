@@ -1,17 +1,13 @@
 # MatrixWorld
 
-Nothing yet....
+MatrixWorld will become a desktop application people can use to manipulate matrices. There will be many arithmic notations available to use. There will be many ways to interact with a matrix, one is a dragable 3d representation of the matrix provided. There will be an API to use most features in your code, the point of this is to freely use the functions we provide, you can use this in games, AI and other spaces that use matrices.
+
+# Note
+
+I am currently looking for verifyed people to assist me in any way they can, though i expect 
 
 
-
-
-
-
-
-
-
-
-# SUPPORT
+# Support
 
 These are the wallets you can Send cypto to. The money will go to support like hiring people and general services.
 
