@@ -29,7 +29,6 @@ public class TwoDimensionalMatrix {
                 }
             }
             System.out.println("End.");
-
         }
 }
 
