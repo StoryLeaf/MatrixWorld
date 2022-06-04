@@ -15,14 +15,14 @@ Nothing yet....
 
 These are the wallets you can Send cypto to. The money will go to support like hiring people and general services.
 
-ETH = 0x80315552bc5312cDA293690d0F712ffc25FfC0A5
+ETH = 0xE778A5055b0BB9B376F4c2BAEF9188477637EE69
 
-ETC = 0xe378d882BB49e0b7017AC91c0c3F055291A9Ec27
+ETC = 0x135370968dfa9AbA1417B044f02b28d2Be42bDAb
 
-BNB = 0x80315552bc5312cDA293690d0F712ffc25FfC0A5
+BNB = bnb1c6lddtqjqx9ur8745yh23k6ky3j87e75c2xns7
 
-ATOM = cosmos1668kfck3t3mwlm4ypm2tswu89zerkcac87y79q
+ATOM = cosmos130u4z7sy6e9vg7xgvk764h53wsm7pw4ryk26lv
 
-MANTIC = 0x80315552bc5312cDA293690d0F712ffc25FfC0A5
+MANTIC = 0xE778A5055b0BB9B376F4c2BAEF9188477637EE69
 
-XRP = r3Fqzyhmz88VYdwBDSBfCv2fuVrZvF9vAQ
+XRP = rEdQbBau5HRzsxWiyQhzSVoX3kcpSUCfhT
